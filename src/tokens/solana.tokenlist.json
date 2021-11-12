@@ -24861,6 +24861,20 @@
         "wrapped",
         "wormhole"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BpZ93AYjkYgGtpMf15CVqFogtbeRmgyoevpwDcPq2vNv",
+      "symbol": "BAPE",
+      "name": "BAPE",
+      "decimals": 9,
+      "logoURI": "https://uploads-ssl.webflow.com/613eac65a7e4761a35516bbf/618dd1edc714958122b75acf_bape_token%40512x.png",
+      "tags": ["meme", "governance"],
+      "extensions": {
+        "website": "https://www.hotspringapes.com/",
+        "twitter": "https://twitter.com/HotSpringMonkey",
+        "discord": "https://discord.gg/NtuD6EZ8KB",
+      }
     }
   ],
   "version": {
